@@ -1,0 +1,12 @@
+{
+    "BookID": "9780357501887",
+    "UserAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0",
+    "Headless":false,
+    "HeaderOverrides":{
+        "Accept":"*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en,q=0.5",
+        "Connection": "keep-alive",
+        "DNT":"1"
+    }
+}

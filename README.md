@@ -1,2 +1,0 @@
-# CheggRipper
-VIVA LA REVOLUCIÓN

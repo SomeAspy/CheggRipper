@@ -1,0 +1,4 @@
+node_modules
+dist
+config/credentials.json
+*.cookies.json
